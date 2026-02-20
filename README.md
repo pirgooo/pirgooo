@@ -11,16 +11,15 @@
 
 ## About me
 
-Beginner frontend developer | HTML, CSS, JavaScript, Python | Passionate about UX and responsive design | Always learning
+Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Familiar with Git, SASS, Jest | Always learning
 
 
 **Skills**
-- HTML5, CSS3 (basic)
-- JavaScript (basic syntax and DOM manipulation)
-- Python (basics, simple automation scripts)
-- Git (basic commands)
-- Familiar with React and Vue 3 (learning)
-- Basic understanding of SASS, GitHub Actions, Jest, and Cypress
+- Frontend: HTML5, CSS3, basic JavaScript.
+- Frameworks: learning React and Vue 3 via practice projects.
+- Python: fundamentals and simple automation tasks.
+- Tools: Git (basics), GitHub Actions (basic workflows), SASS.
+- Testing: first steps with Jest and Cypress.
 
 ## Projects:
 
