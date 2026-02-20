@@ -11,7 +11,8 @@
 
 ## О себе
 
-Привет! Я frontend-разработчик с 3+ годами опыта. Специализируюсь на создании интерактивных веб-приложений с использованием React и Vue. Люблю автоматизировать рутинные задачи и писать чистый код.
+Beginner frontend developer | HTML, CSS, JavaScript, Python | Passionate about UX and responsive design | Always learning
+
 
 **Навыки:**
 - JavaScript/TypeScript
