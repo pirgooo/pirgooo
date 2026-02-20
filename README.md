@@ -25,9 +25,6 @@ Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Fa
 
 ### Tracker of medical analyses (Flask app)
 
-![React](https://img.shields.io/badge/React-20231A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-
 This project is a web application built with Flask (Python framework) designed to track analyses received from doctors. The app allows users to store, organize, and view their medical test results in one place, making it easier to monitor health indicators over time.
 
 - **Technologies:**
@@ -41,26 +38,9 @@ This project is a web application built with Flask (Python framework) designed t
 
 <img src="projects/project-1/screenshots/demo.gif" width="400">
 
-### Проект 2: Планировщик задач
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-E48231?logo=pinia&logoColor=white)
-
-Кроссплатформенное приложение для управления задачами с локальным хранилищем.
-
-- **Technologies:**
-- **Backend:** Flask (Python), SQLAlchemy (ORM for database interaction).
-- **Database:** SQLite (for simplicity) or PostgreSQL/MySQL (for larger deployments).
-- **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
-- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).
-  
-- **Демо:** [Ссылка на демо](https://your-username.github.io/project-2)
-- **Репозиторий:** [GitHub](https://github.com/your-username/project-2)
 
 ## Contacts
 
 - **Email:** pirgooo@yandex.ru
 - **Telegram:** @Pirgooo
-
-
-![GitHub Activity Graph](https://raw.githubusercontent.com/your-username/portfolio/main/assets/images/activity-graph.svg)
