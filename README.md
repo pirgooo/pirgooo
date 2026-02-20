@@ -30,7 +30,12 @@ Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Fa
 
 This project is a web application built with Flask (Python framework) designed to track analyses received from doctors. The app allows users to store, organize, and view their medical test results in one place, making it easier to monitor health indicators over time.
 
-- **Технологии:** React, Redux Toolkit, Axios, Tailwind CSS
+- **Technologies:**
+- **Backend:** Flask (Python), SQLAlchemy (ORM for database interaction).
+- **Database:** SQLite (for simplicity) or PostgreSQL/MySQL (for larger deployments).
+- **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
+- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).React, Redux Toolkit, Axios, Tailwind CSS
+  
 - **Демо:** [Ссылка на демо](https://your-username.github.io/project-1)
 - **Репозиторий:** [GitHub](https://github.com/your-username/project-1)
 
