@@ -43,7 +43,12 @@ This project is a web application built with Flask (Python framework) designed t
 
 Кроссплатформенное приложение для управления задачами с локальным хранилищем.
 
-- **Технологии:** Vue 3, Pinia, Vuetify
+- **Technologies:**
+- **Backend:** Flask (Python), SQLAlchemy (ORM for database interaction).
+- **Database:** SQLite (for simplicity) or PostgreSQL/MySQL (for larger deployments).
+- **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
+- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).
+  
 - **Демо:** [Ссылка на демо](https://your-username.github.io/project-2)
 - **Репозиторий:** [GitHub](https://github.com/your-username/project-2)
 
