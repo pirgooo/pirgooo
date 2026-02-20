@@ -5,7 +5,7 @@
 </div>
 
 <!-- Значки (shields.io) -->
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pirgooo?style=social)
 ![Top Lang](https://img.shields.io/github/languages/top/your-username/portfolio?color=58a6ff)
 ![Last Commit](https://img.shields.io/github/last-commit/your-username/portfolio?color=brightgreen)
 
