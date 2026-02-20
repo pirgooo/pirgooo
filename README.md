@@ -47,10 +47,10 @@ Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Fa
 - **Демо:** [Ссылка на демо](https://your-username.github.io/project-2)
 - **Репозиторий:** [GitHub](https://github.com/your-username/project-2)
 
-## Контакты
+## Contacts
 
-- **Email:** your.email@example.com
-- **Telegram:** @your_telegram
-- **LinkedIn:** [Профиль](https://linkedin.com/in/your-profile)
+- **Email:** pirgooo@yandex.ru
+- **Telegram:** @Pirgooo
+
 
 ![GitHub Activity Graph](https://raw.githubusercontent.com/your-username/portfolio/main/assets/images/activity-graph.svg)
