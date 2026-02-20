@@ -9,7 +9,7 @@
 ![Top Lang](https://img.shields.io/github/languages/top/pirgooo/portfolio?color=58a6ff)
 ![Last Commit](https://img.shields.io/github/last-commit/pirgooo/portfolio?color=brightgreen)
 
-## О себе
+## About me
 
 Beginner frontend developer | HTML, CSS, JavaScript, Python | Passionate about UX and responsive design | Always learning
 
