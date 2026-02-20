@@ -23,12 +23,12 @@ Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Fa
 
 ## Projects:
 
-### Проект 1: Интернет-магазин на React
+### Tracker of medical analyses (Flask app)
 
 ![React](https://img.shields.io/badge/React-20231A?logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
-Интерактивный интернет-магазин с корзиной, фильтрами и авторизацией.
+This project is a web application built with Flask (Python framework) designed to track analyses received from doctors. The app allows users to store, organize, and view their medical test results in one place, making it easier to monitor health indicators over time.
 
 - **Технологии:** React, Redux Toolkit, Axios, Tailwind CSS
 - **Демо:** [Ссылка на демо](https://your-username.github.io/project-1)
