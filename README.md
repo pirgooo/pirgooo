@@ -1,6 +1,6 @@
 <!-- Аватар и заголовок -->
 <div align="center">
-  <h1>Иван Иванов</h1>
+  <h1>Dmitrii Pirogovskii</h1>
   <p>Frontend-разработчик | JavaScript, React, Vue</p>
 </div>
 
