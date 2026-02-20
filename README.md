@@ -1,7 +1,7 @@
 <!-- Аватар и заголовок -->
 <div align="center">
   <h1>Dmitrii Pirogovskii</h1>
-  <p>Frontend-разработчик | JavaScript, React, Vue</p>
+  <p>frontend developer | JavaScript, React, Vue</p>
 </div>
 
 <!-- Значки (shields.io) -->
@@ -14,15 +14,15 @@
 Beginner frontend developer | HTML, CSS, JavaScript, Python | Passionate about UX and responsive design | Always learning
 
 
-**Навыки:**
-- JavaScript/TypeScript
-- React, Redux
-- Vue 3, Pinia
-- HTML5, CSS3, SASS
-- Git, GitHub Actions
-- Jest, Cypress
+**Skills**
+- HTML5, CSS3 (basic)
+- JavaScript (basic syntax and DOM manipulation)
+- Python (basics, simple automation scripts)
+- Git (basic commands)
+- Familiar with React and Vue 3 (learning)
+- Basic understanding of SASS, GitHub Actions, Jest, and Cypress
 
-## Проекты
+## Projects:
 
 ### Проект 1: Интернет-магазин на React
 
