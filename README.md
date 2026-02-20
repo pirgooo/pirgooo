@@ -31,7 +31,7 @@ This project is a web application built with Flask (Python framework) designed t
 - **Backend:** Flask (Python), SQLAlchemy (ORM for database interaction).
 - **Database:** SQLite (for simplicity) or PostgreSQL/MySQL (for larger deployments).
 - **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
-- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).React, Redux Toolkit, Axios, Tailwind CSS
+- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).React, Redux Toolkit, Axios, Tailwind CSS.
   
 - **Repository:** [GitHub](https://github.com/your-username/project-1)
 
