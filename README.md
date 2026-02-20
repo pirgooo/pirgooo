@@ -1,6 +1,5 @@
 <!-- Аватар и заголовок -->
 <div align="center">
-  <img src="assets/images/profile-photo.jpg" width="150" alt="Моё фото">
   <h1>Иван Иванов</h1>
   <p>Frontend-разработчик | JavaScript, React, Vue</p>
 </div>
