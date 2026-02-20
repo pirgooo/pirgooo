@@ -33,11 +33,7 @@ This project is a web application built with Flask (Python framework) designed t
 - **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
 - **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).React, Redux Toolkit, Axios, Tailwind CSS
   
-- **Демо:** [Ссылка на демо](https://your-username.github.io/project-1)
-- **Репозиторий:** [GitHub](https://github.com/your-username/project-1)
-
-<img src="projects/project-1/screenshots/demo.gif" width="400">
-
+- **Repository:** [GitHub](https://github.com/your-username/project-1)
 
 
 ## Contacts
