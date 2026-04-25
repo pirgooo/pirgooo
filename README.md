@@ -33,4 +33,3 @@ I am a Junior Developer passionate about web technologies and software engineeri
 
 ### 📫 Connect with me
 * **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
-* **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
