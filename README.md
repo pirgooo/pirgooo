@@ -3,17 +3,17 @@
   <p><b>Junior Software Developer | Python • PHP • Web Development</b></p>
 
   <img src="https://img.shields.io/github/followers/pirgooo?style=flat-square&logo=github" alt="followers">
-  <img src="https://img.shields.io/github/languages/count/pirgooo/medical-tracker?style=flat-square&color=blueviolet" alt="languages">
+  <img src="https://img.shields.io/github/languages/count/pirgooo?style=flat-square&color=blueviolet" alt="languages">
 </div>
 
 ---
 
 ### 👤 About Me
-I am a self-taught junior developer currently focused on building web applications and exploring the intersection of backend logic and frontend presentation. I enjoy automating routine tasks and learning how data flows through a full-stack application.
+I am a Junior Developer passionate about web technologies and software engineering. I focus on building efficient backend logic and clean user interfaces. Currently, I am expanding my knowledge in database management and full-stack integration.
 
-* 🔭 **Current Focus:** Developing a web-based medical analysis tracker.
-* 🌱 **Learning:** SQL optimization, PHP backend patterns, and Flask RESTful APIs.
-* ⚙️ **Tech Stack:** Working daily with Python, PHP, and MySQL.
+* 🌱 **Learning:** SQL optimization, PHP backend architecture, and Flask API development.
+* ⚙️ **Tech Stack:** Daily experience with Python, PHP, and MySQL.
+* 🚀 **Goal:** Building scalable web applications and improving code quality.
 
 ---
 
@@ -26,29 +26,18 @@ I am a self-taught junior developer currently focused on building web applicatio
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
 
-### 📂 Key Projects
-
-#### 🩺 Medical Analysis Tracker
-A full-stack web application designed to store, organize, and monitor medical test results. It helps users track their health indicators through a clean, intuitive interface.
-
-- **Stack:** Python (Flask), SQLAlchemy, MySQL/SQLite.
-- **Frontend:** HTML5, CSS3 (Bootstrap), Jinja2 templates.
-- **Features:** User authentication, data visualization, and secure record storage.
-- 🔗 **[Explore Repository](https://github.com/pirgooo/medical-tracker)**
-
----
-
-### 📫 Get in Touch
-* **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
-* **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
-* **LinkedIn:** [Your Profile Link Here] *(Optional)*
-
----
-
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirgooo&layout=compact&theme=flat&hide_border=true" alt="Top Languages">
 </div>
+
+---
+
+### 📫 Connect with me
+* **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
+* **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
