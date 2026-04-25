@@ -1,42 +1,51 @@
-<!-- Аватар и заголовок -->
 <div align="center">
   <h1>Dmitrii Pirogovskii</h1>
-  <p>frontend developer | JavaScript, React, Vue</p>
+  <p><b>Frontend Developer | JavaScript • React • Vue</b></p>
+
+  <img src="https://img.shields.io/github/followers/pirgooo?style=social" alt="followers">
+  <img src="https://img.shields.io/github/languages/top/pirgooo/medical-tracker?color=58a6ff" alt="top lang">
+  <img src="https://img.shields.io/github/last-commit/pirgooo/medical-tracker?color=brightgreen" alt="last commit">
 </div>
 
-<!-- Значки (shields.io) -->
-![GitHub followers](https://img.shields.io/github/followers/pirgooo?style=social)
-![Top Lang](https://img.shields.io/github/languages/top/pirgooo/portfolio?color=58a6ff)
-![Last Commit](https://img.shields.io/github/last-commit/pirgooo/portfolio?color=brightgreen)
+---
 
-## About me
+### 👤 About Me
+I'm a passionate beginner developer focused on building clean and functional web applications. Currently diving deep into **React** and **Vue 3** ecosystem while keeping my **Python** skills sharp for automation.
 
-Beginner dev | HTML/CSS/JS basics | Python basics | Exploring React & Vue 3 | Familiar with Git, SASS, Jest | Always learning
+* 🌱 **Learning:** Advanced React patterns, Vue Composition API, and Unit Testing.
+* 🚀 **Goal:** Transition from a beginner to a Junior Frontend Developer.
 
+---
 
-**Skills**
-- Frontend: HTML5, CSS3, basic JavaScript.
-- Frameworks: learning React and Vue 3 via practice projects.
-- Python: fundamentals and simple automation tasks.
-- Tools: Git (basics), GitHub Actions (basic workflows), SASS.
-- Testing: first steps with Jest and Cypress.
+### 🛠 Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+</p>
 
-## Projects:
+---
 
-### Tracker of medical analyses (Flask app)
+### 📂 Featured Projects
 
-This project is a web application built with Flask (Python framework) designed to track analyses received from doctors. The app allows users to store, organize, and view their medical test results in one place, making it easier to monitor health indicators over time.
+#### 🩺 Medical Analysis Tracker
+A full-stack web application designed to help users organize and monitor their medical test results over time.
 
-- **Technologies:**
-- **Backend:** Flask (Python), SQLAlchemy (ORM for database interaction).
-- **Database:** SQLite (for simplicity) or PostgreSQL/MySQL (for larger deployments).
-- **Frontend:** HTML, CSS, JavaScript (with Bootstrap for responsive design).
-- **Additional libraries:** Jinja2 (template engine), Flask-Login (user authentication).React, Redux Toolkit, Axios, Tailwind CSS.
-  
-- **Repository:** [GitHub](https://github.com/your-username/project-1)
+* **Backend:** Python (Flask), SQLAlchemy, SQLite/PostgreSQL.
+* **Frontend:** HTML5, Jinja2, Bootstrap (Responsive Design).
+* **Auth:** Flask-Login for secure user sessions.
+* 🔗 **[View Repository](https://github.com/pirgooo/medical-tracker)** (проверь ссылку!)
 
+---
 
-## Contacts
-
-- **Email:** pirgooo@yandex.ru
-- **Telegram:** @Pirgooo
+### 📫 Connect with me
+* **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
+* **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
