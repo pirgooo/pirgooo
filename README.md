@@ -1,51 +1,54 @@
 <div align="center">
   <h1>Dmitrii Pirogovskii</h1>
-  <p><b>Frontend Developer | JavaScript • React • Vue</b></p>
+  <p><b>Junior Software Developer | Python • PHP • Web Development</b></p>
 
-  <img src="https://img.shields.io/github/followers/pirgooo?style=social" alt="followers">
-  <img src="https://img.shields.io/github/languages/top/pirgooo/medical-tracker?color=58a6ff" alt="top lang">
-  <img src="https://img.shields.io/github/last-commit/pirgooo/medical-tracker?color=brightgreen" alt="last commit">
+  <img src="https://img.shields.io/github/followers/pirgooo?style=flat-square&logo=github" alt="followers">
+  <img src="https://img.shields.io/github/languages/count/pirgooo/medical-tracker?style=flat-square&color=blueviolet" alt="languages">
 </div>
 
 ---
 
 ### 👤 About Me
-I'm a passionate beginner developer focused on building clean and functional web applications. Currently diving deep into **React** and **Vue 3** ecosystem while keeping my **Python** skills sharp for automation.
+I am a self-taught junior developer currently focused on building web applications and exploring the intersection of backend logic and frontend presentation. I enjoy automating routine tasks and learning how data flows through a full-stack application.
 
-* 🌱 **Learning:** Advanced React patterns, Vue Composition API, and Unit Testing.
-* 🚀 **Goal:** Transition from a beginner to a Junior Frontend Developer.
+* 🔭 **Current Focus:** Developing a web-based medical analysis tracker.
+* 🌱 **Learning:** SQL optimization, PHP backend patterns, and Flask RESTful APIs.
+* ⚙️ **Tech Stack:** Working daily with Python, PHP, and MySQL.
 
 ---
 
-### 🛠 Skills & Tools
+### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Key Projects
 
 #### 🩺 Medical Analysis Tracker
-A full-stack web application designed to help users organize and monitor their medical test results over time.
+A full-stack web application designed to store, organize, and monitor medical test results. It helps users track their health indicators through a clean, intuitive interface.
 
-* **Backend:** Python (Flask), SQLAlchemy, SQLite/PostgreSQL.
-* **Frontend:** HTML5, Jinja2, Bootstrap (Responsive Design).
-* **Auth:** Flask-Login for secure user sessions.
-* 🔗 **[View Repository](https://github.com/pirgooo/medical-tracker)** (проверь ссылку!)
+- **Stack:** Python (Flask), SQLAlchemy, MySQL/SQLite.
+- **Frontend:** HTML5, CSS3 (Bootstrap), Jinja2 templates.
+- **Features:** User authentication, data visualization, and secure record storage.
+- 🔗 **[Explore Repository](https://github.com/pirgooo/medical-tracker)**
 
 ---
 
-### 📫 Connect with me
+### 📫 Get in Touch
 * **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
 * **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
+* **LinkedIn:** [Your Profile Link Here] *(Optional)*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirgooo&layout=compact&theme=flat&hide_border=true" alt="Top Languages">
+</div>
