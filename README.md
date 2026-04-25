@@ -31,13 +31,6 @@ I am a Junior Developer passionate about web technologies and software engineeri
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirgooo&layout=compact&theme=flat&hide_border=true" alt="Top Languages">
-</div>
-
----
-
 ### 📫 Connect with me
 * **Telegram:** [@Pirgooo](https://t.me/Pirgooo)
 * **Email:** [pirgooo@yandex.ru](mailto:pirgooo@yandex.ru)
