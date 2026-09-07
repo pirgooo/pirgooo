@@ -9,7 +9,7 @@
 ---
 
 ### 👤 About Me
-I am a Junior Developer passionate about web technologies and software engineering. I focus on building efficient backend logic and clean user interfaces. Currently, I am expanding my knowledge in database management and full-stack integration.
+I am a Junior Developer passionate about web technologies and software engineering. I focus on building efficient backend logic, REST APIs, and clean user interfaces. Currently, I am expanding my knowledge in system design, database optimization, and full-stack integration.
 
 * 🌱 **Learning:** SQL optimization, async Python, and advanced API architecture.
 * ⚙️ **Tech Stack:** Daily experience with Python, Flask, JavaScript, and MySQL
