@@ -13,7 +13,6 @@ I am a Junior Developer passionate about web technologies and software engineeri
 
 * 🌱 **Learning:** SQL optimization, PHP backend architecture, and Flask API development.
 * ⚙️ **Tech Stack:** Daily experience with Python, PHP, and MySQL.
-* [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 * 🚀 **Goal:** Building scalable web applications and improving code quality.
 
 ---
