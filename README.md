@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dmitrii Pirogovskii</h1>
-  <p><b>Junior Software Developer | Python • PHP • Web Development</b></p>
+  <p><b>Junior Software Developer | Python • Flask • JavaScript</b></p>
 
   <img src="https://img.shields.io/github/followers/pirgooo?style=flat-square&logo=github" alt="followers">
   <img src="https://img.shields.io/github/languages/count/pirgooo?style=flat-square&color=blueviolet" alt="languages">
